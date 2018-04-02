@@ -1,3 +1,6 @@
 adding some text here as well
 
 While we were fixing issue-5, someone pushed a change to master
+
+Issue-5: Writing code in a separate branch to resolve this issue.
+Issue resolved
