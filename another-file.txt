@@ -4,3 +4,5 @@ While we were fixing issue-5, someone pushed a change to master
 
 Issue-5: Writing code in a separate branch to resolve this issue.
 Issue resolved
+
+While working on issue-6, some-else added code here
