@@ -11,3 +11,5 @@ While working on issue-6, some-else added code here
 Issue-6: Solving more problems
 
 Issue-7: Optimizing processes here
+
+Making a change using the web UI
